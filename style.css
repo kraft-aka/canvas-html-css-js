@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#draw {
+  cursor: crosshair;
+  border: 20px solid #eba1689e;
+  margin: 10% auto;
+  display: block;
+}
